@@ -1,12 +1,13 @@
 # Allan Bott
 
-**'Self-taught developer on a journey of new found skills and career paths*'*
+**'Self-taught developer on a journey of new found skills and career paths'**
 
 I'm a self-taught front-end developer who'd one day like to go into full-stack or just full backend development. This
 Github portfolio is a place where I'll be documenting all my projects, from start to "finish" - do we really ever finish
 though?
 Join me on my journey of self discovery as I try to teach this old dog some new tricks.  Online portfolio will also
 be available over on my website https://allanbott.co.uk/
+
 ---
 ### Languages & Tools
 
