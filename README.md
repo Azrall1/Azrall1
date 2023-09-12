@@ -1,9 +1,19 @@
-### Hi there 👋
+# Allan Bott
 
-<!--
-**Azrall1/Azrall1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Self-taught developer on a journey of new found skills and career paths*'*
 
-Here are some ideas to get you started:
+I'm a self-taught front-end developer who'd one day like to go into full-stack or just full backend development. This
+Github portfolio is a place where I'll be documenting all my projects, from start to "finish" - do we really ever finish
+though?
+Join me on my journey of self discovery as I try to teach this old dog some new tricks.  Online portfolio will also
+be available over on [my website ][https://allanbott.co.uk/]
+
+---
+### Languages & skills
+
+<image align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
