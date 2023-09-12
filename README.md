@@ -6,8 +6,7 @@ I'm a self-taught front-end developer who'd one day like to go into full-stack o
 Github portfolio is a place where I'll be documenting all my projects, from start to "finish" - do we really ever finish
 though?
 Join me on my journey of self discovery as I try to teach this old dog some new tricks.  Online portfolio will also
-be available over on [my website ][https://allanbott.co.uk/]
-
+be available over on my website https://allanbott.co.uk/
 ---
 ### Languages & Tools
 
